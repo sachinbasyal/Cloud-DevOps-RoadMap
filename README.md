@@ -11,3 +11,5 @@ A DevOps Project consists of 4 major phases:
 * phase -4: Configuration of Monitoring Tools
   - Grafana
   - Prometheus / Blackbox Exporter
+
+![Alt Text](https://github.com/sachinbasyal/Cloud-DevOps-RoadMap/blob/main/DevOps%20RoadMap.png?raw=true)
