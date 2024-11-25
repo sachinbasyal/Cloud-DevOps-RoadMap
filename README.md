@@ -1,4 +1,4 @@
-## A Complete guide to Cloud DevOps Roadmap and CI/CI Pipelines
+## A Complete guide to Cloud DevOps Roadmap and CI/CD Pipelines
 ### A DevOps Project consists of 4 major phases:
 * Phase -1: Infra Setup-
   - Creating VMs/VPC in AWS
